@@ -11,7 +11,7 @@ import "firebase/auth";
 import "firebase/firestore";
 
 const config = {
-    apiKey: "AIzaSyC9QO44wZxGiRadYnVPXHBNBzEoFw6UI5s",
+    apiKey: "API_KEY_REMOVED
     authDomain: "notflix-clone.firebaseapp.com",
     databaseURL: "https://notflix-clone.firebaseio.com",
     projectId: "notflix-clone",
