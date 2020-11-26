@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Enjoy on your TV.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/misc/home-tv.png",
+      "movie": "/images/misc/video-tv.m4v",
+      "alt": "An example of Netflix's TV app interface",
+      "direction": "row",
+      "topPos": "21%",
+      "leftPos": "13%",
+      "maxWidth": "73%",
+      "maxHeight": "54%"
+    },
+    {
+      "id": 2,
+      "title": "Download your programmes to watch on the go.",
+      "subTitle": "Save your data and watch all your favourites offline.",
+      "image": "/images/misc/home-mobile.jpg",
+      "movie": false,
+      "alt": "Scene from Stranger Things displayed on an iPhone",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Watch everywhere.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/misc/device-pile.png",
+      "movie": "/images/misc/video-devices.m4v",
+      "alt": "Visual example of Netflix displayed on multiple devices",
+      "direction": "row",
+      "topPos": "10%",
+      "leftPos": "17%",
+      "maxWidth": "63%",
+      "maxHeight": "47%"
+    }
+  ]
+  
